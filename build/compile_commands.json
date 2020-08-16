@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/projeto/Workspace/Coding/C++/Cpp-RosSolo/build",
-  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\\\"rossolo\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/rossolo.dir/src/rossolo.cpp.o -c /home/projeto/Workspace/Coding/C++/Cpp-RosSolo/src/rossolo.cpp",
-  "file": "/home/projeto/Workspace/Coding/C++/Cpp-RosSolo/src/rossolo.cpp"
-}
-]
